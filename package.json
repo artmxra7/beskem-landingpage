@@ -1,0 +1,30 @@
+{
+  "name": "beskem",
+  "version": "1.0.0",
+  "description": "Landingpage Beskem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artmxra7/beskem-landingpage.git"
+  },
+  "keywords": [
+    "beskem-landingpage"
+  ],
+  "author": "Erwin Rahayu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artmxra7/beskem-landingpage/issues"
+  },
+  "homepage": "https://github.com/artmxra7/beskem-landingpage#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
